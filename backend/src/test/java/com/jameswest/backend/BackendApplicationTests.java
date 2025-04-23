@@ -1,4 +1,4 @@
-package com.jameswest1.backend;
+package com.jameswest.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
